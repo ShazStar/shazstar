@@ -10,6 +10,7 @@ ShazStar here. Welcome to my GitHub Profile.
 - <a href="https://shazstar.github.io/">[Personal Website.]</a><br>
 - <a href="https://shazstar.github.io/blog/">[Blog.]</a>
 
+##
 <pre>Last Updated: April 1st, 2025.</pre>
 <!--
 **ShazStar/shazstar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
