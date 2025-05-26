@@ -7,8 +7,9 @@ ShazStar here. Welcome to my GitHub Profile.
 - Loves Gaming (Especially Rhythm Games), fiddle with technology, riding motorcycle, photography, coding and make videos.
 
 <h1>Links</h1>
-- <a href="https://shazstar.github.io/">[Personal Website.]</a><br>
-- <a href="https://shazstar.github.io/blog/">[Blog.]</a>
+- <a href="https://shazstar.github.io">[Personal Website.]</a><br>
+- <a href="https://shazstar.github.io/blog">[English Blog.]</a>
+- <a href="https://shazstar.github.io/twblog">[中文 Blog.]</a>
 
 ##
 <pre>Last Updated: April 1st, 2025.</pre>
