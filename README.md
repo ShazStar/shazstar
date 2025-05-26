@@ -8,7 +8,7 @@ ShazStar here. Welcome to my GitHub Profile.
 
 <h1>Links</h1>
 - <a href="https://shazstar.github.io">[Personal Website.]</a><br>
-- <a href="https://shazstar.github.io/blog">[English Blog.]</a>
+- <a href="https://shazstar.github.io/blog">[English Blog.]</a><br>
 - <a href="https://shazstar.github.io/twblog">[中文 Blog.]</a>
 
 ##
