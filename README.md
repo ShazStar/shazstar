@@ -12,7 +12,7 @@ ShazStar here. Welcome to my GitHub Profile.
 - <a href="https://shazstar.github.io/twblog">[中文 Blog.]</a>
 
 ##
-<pre>Last Updated: April 1st, 2025.</pre>
+<pre>Last Updated: June 2nd, 2025.</pre>
 <!--
 **ShazStar/shazstar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
